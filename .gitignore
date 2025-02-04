@@ -1,5 +1,15 @@
 # Ignore node_modules and environment files
 node_modules/
+client/node_modules/
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore uploads folder
+backend/uploads/
+# Ignore node_modules and environment files
+node_modules/
 .env
 
 # Ignore system files
