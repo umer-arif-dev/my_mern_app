@@ -11,6 +11,6 @@ backend/uploads/
 # Ignore node_modules and environment files
 node_modules/
 .env
-
+package-lock.json
 # Ignore system files
 .DS_Store
